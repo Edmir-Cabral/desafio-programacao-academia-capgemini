@@ -1,4 +1,4 @@
-<h1> Desafio de programacao academia Capgemini </h1>
+<h1> Desafio de programação academia Capgemini </h1>
 O seguinte projeto foi desenvolvido para o desafio da Academia Técnica Capgemini 2022.
 
 Ao total são 3 desafios de programação :
